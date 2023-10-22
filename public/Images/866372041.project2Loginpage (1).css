@@ -1,0 +1,112 @@
+body{
+    background-color: blue;
+}
+
+.form
+{
+      background-color: whitesmoke;
+margin: 150px;
+margin-left: 500px;
+height: 400px;
+width: 300px;
+border: 2px solid black;
+padding: 10px;
+
+
+
+
+
+}
+.loginbtn1
+{
+    height: 30px;
+    width: 130px;
+    margin-left: 15px;
+    background-color: blue;
+    color: whitesmoke;
+    margin-top: 12px;
+    
+    
+    
+    
+    
+    
+    /* background-color: black; */
+}
+.signupbtn1
+{
+ height: 30px;
+    width: 130px;
+    /* margin-left: 15px; */
+    
+    color:black;
+    
+    
+    
+    
+    
+    
+    /* background-color: black; */
+}
+
+.emailbox
+{
+    width: 240px;
+    margin-top: 25px;
+height: 26px;
+margin-left: 20px;
+border: 1px solid black;
+border-radius: 5px;
+
+
+
+
+
+
+
+
+}
+
+.passwordbox
+{
+    width: 240px;
+    margin-top: 25px;
+height: 26px;
+margin-left: 20px;
+border: 1px solid black;
+border-radius: 5px;
+
+
+
+
+
+
+
+}
+.loginbtn2
+{
+    height: 40px;
+    width: 260px;
+    /* margin-left: 15px; */
+    background-color: blue;
+    color: whitesmoke;
+    margin-left: 20px;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
